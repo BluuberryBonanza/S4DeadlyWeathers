@@ -5,3 +5,9 @@ https://creativecommons.org/licenses/by/4.0/legalcode
 
 Copyright (c) BLUUBERRYBONANZA
 """
+from weather.weather_tuning import TuningPrescribedWeatherType
+
+
+class DWTuningPrescribedWeatherType(TuningPrescribedWeatherType):
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)

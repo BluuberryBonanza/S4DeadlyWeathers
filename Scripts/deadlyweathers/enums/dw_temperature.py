@@ -5,3 +5,12 @@ https://creativecommons.org/licenses/by/4.0/legalcode
 
 Copyright (c) BLUUBERRYBONANZA
 """
+from weather.weather_enums import Temperature
+
+
+class DWTemperature(Temperature):
+    pass
+
+
+with Temperature.make_mutable():
+    pass
