@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="DWWeatherEvent" i="weather_event" m="deadlyweathers.classes.dw_weather_event" n="DW_WeatherEvent_SuperStorm_Cold" s="10403527553105591821">
+  <L n="cloud_states">
+    <U>
+      <E n="key">DARK_RAINCLOUDS</E>
+      <U n="value">
+        <U n="range">
+          <T n="lower_bound">100</T>
+          <T n="upper_bound">100</T>
+        </U>
+      </U>
+    </U>
+  </L>
+  <V n="lightning" t="enabled">
+    <U n="enabled">
+      <U n="range">
+        <T n="lower_bound">100</T>
+        <T n="upper_bound">100</T>
+      </U>
+    </U>
+  </V>
+  <V n="precipitation" t="enabled">
+    <U n="enabled">
+      <E n="precipitation_type">RAIN</E>
+      <U n="range">
+        <T n="lower_bound">100</T>
+        <T n="upper_bound">100</T>
+      </U>
+    </U>
+  </V>
+  <V n="prescribed_weather_type" t="enabled">
+    <U n="enabled">
+      <T n="rain">True</T>
+      <T n="storm">True</T>
+    </U>
+  </V>
+  <E n="temperature">COLD</E>
+  <V n="thunder" t="enabled">
+    <U n="enabled">
+      <T n="end_rate">0</T>
+      <U n="range">
+        <T n="lower_bound">100</T>
+        <T n="upper_bound">100</T>
+      </U>
+      <T n="start_delay">4</T>
+    </U>
+  </V>
+  <V n="wind" t="enabled">
+    <U n="enabled">
+      <U n="range">
+        <T n="lower_bound">100</T>
+        <T n="upper_bound">100</T>
+      </U>
+    </U>
+  </V>
+</I>

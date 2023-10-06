@@ -1,4 +1,4 @@
-from deadlyweathers.utils.bb_weather_utils import BBWeatherUtils
+from deadlyweathers.bb_lib.utils.bb_weather_utils import BBWeatherUtils
 from sims4.commands import CommandType, Command
 
 
