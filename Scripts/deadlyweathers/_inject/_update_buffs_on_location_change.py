@@ -12,7 +12,6 @@ from weather.weather_aware_component import WeatherAwareComponent
 from weather.weather_event import WeatherEvent
 
 log = BBLogRegistry().register_log(DWModIdentity(), 'dw_location_change_log')
-log.enable()
 
 
 class DWLocationChangeHandler:
@@ -21,6 +20,10 @@ class DWLocationChangeHandler:
         was_outside = weather_aware_component._is_outside
         weather_aware_component_owner = weather_aware_component.owner
         if not weather_aware_component_owner.is_sim:
+            return
+
+        if weather_aware_component_owner.sim_info.is_npc:
+            log.debug('Sim is an NPC, we will ignore adding a buff to them.', owner_sim_info=weather_aware_component_owner.sim_info)
             return
         if disabling:
             is_outside = None
