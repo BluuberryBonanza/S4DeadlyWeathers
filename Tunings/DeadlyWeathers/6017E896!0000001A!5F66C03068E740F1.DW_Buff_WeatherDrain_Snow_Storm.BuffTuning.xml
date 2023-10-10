@@ -50,6 +50,6 @@
   </U>
   <T n="buff_description">0x37BD9146<!--{0.SimFirstName} is in the strength sapping snow, they better get indoors before they die of exhaustion and hunger!--></T>
   <T n="buff_name">0xCDE65205<!--Strength Sapping Snow (DW)--></T>
-  <T n="icon" p="InGame\ui\icons\buffs\Buff_Lightning_neg.png">2f7d0004:00000000:6142b3d12ecdfb36</T>
+  <T n="icon" p="InGame\ui\icons\buffs\HUD_SeasonsWeather_SnowBlizzard.png">2f7d0004:00000000:21b4984babae1f1b</T>
   <T n="visible">False</T>
 </I>

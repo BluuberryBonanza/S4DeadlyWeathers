@@ -50,6 +50,6 @@
   </U>
   <T n="buff_description">0xFF92CF5B<!--{0.SimFirstName} is in the strength sapping rain, they better get indoors before they die of exhaustion and hunger!--></T>
   <T n="buff_name">0x7418B4A8<!--Strength Sapping Rain (DW)--></T>
-  <T n="icon" p="InGame\ui\icons\buffs\Buff_Lightning_neg.png">2f7d0004:00000000:6142b3d12ecdfb36</T>
+  <T n="icon" p="InGame\ui\icons\buffs\HUD_SeasonsWeather_RainHeavy.png">2f7d0004:00000000:f40cd650badd5d63</T>
   <T n="visible">False</T>
 </I>

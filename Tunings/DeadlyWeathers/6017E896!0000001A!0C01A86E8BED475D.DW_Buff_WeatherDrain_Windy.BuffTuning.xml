@@ -34,6 +34,6 @@
   </U>
   <T n="buff_description">0x6E98963F<!--{0.SimFirstName} is in the strength sapping wind, they better get indoors before they die of exhaustion!--></T>
   <T n="buff_name">0x83C7D940<!--Windy (DW)--></T>
-  <T n="icon" p="InGame\ui\icons\buffs\Buff_Lightning_neg.png">2f7d0004:00000000:6142b3d12ecdfb36</T>
+  <T n="icon" p="InGame\ui\icons\buffs\HUD_SeasonsWeather_Windy.png">2f7d0004:00000000:2aca996028ddc7a3</T>
   <T n="visible">False</T>
 </I>

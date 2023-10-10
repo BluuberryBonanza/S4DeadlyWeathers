@@ -34,6 +34,6 @@
   </U>
   <T n="buff_description">0x62C71E28<!--The lack of Sun is making {0.SimFirstName} sleepier than normal.--></T>
   <T n="buff_name">0x5DF7EC55<!--Lack of Sun (DW)--></T>
-  <T n="icon" p="InGame\ui\icons\buffs\Buff_Lightning_neg.png">2f7d0004:00000000:6142b3d12ecdfb36</T>
+  <T n="icon" p="InGame\ui\icons\buffs\HUD_SeasonsWeather_CloudyPartly.png">2f7d0004:00000000:9c1a0330a23ac986</T>
   <T n="visible">False</T>
 </I>

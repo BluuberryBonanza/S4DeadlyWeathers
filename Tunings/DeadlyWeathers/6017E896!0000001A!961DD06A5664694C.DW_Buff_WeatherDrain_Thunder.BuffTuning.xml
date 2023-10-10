@@ -9,23 +9,23 @@
           <L n="decay_modifiers">
             <U>
               <T n="key">16654<!--motive_Energy--></T>
-              <T n="value">0.5</T>
+              <T n="value">0.1</T>
             </U>
             <U>
               <T n="key">151037<!--commodity_Motive_PetCat_Energy--></T>
-              <T n="value">0.5</T>
+              <T n="value">0.1</T>
             </U>
             <U>
               <T n="key">151033<!--commodity_Motive_PetDog_Energy--></T>
-              <T n="value">0.5</T>
+              <T n="value">0.1</T>
             </U>
             <U>
               <T n="key">312266<!--motive_Horse_Energy--></T>
-              <T n="value">0.5</T>
+              <T n="value">0.1</T>
             </U>
             <U>
               <T n="key">218484<!--motive_Robots_Charge--></T>
-              <T n="value">0.5</T>
+              <T n="value">0.1</T>
             </U>
           </L>
         </U>
@@ -34,6 +34,6 @@
   </U>
   <T n="buff_description">0xC8C867F4<!--{0.SimFirstName} is experiencing the effects of the thunder!--></T>
   <T n="buff_name">0xF462B05B<!--Thunder (DW)--></T>
-  <T n="icon" p="InGame\ui\icons\buffs\Buff_Lightning_neg.png">2f7d0004:00000000:6142b3d12ecdfb36</T>
+  <T n="icon" p="InGame\ui\icons\buffs\HUD_SeasonsWEather_Monsoon.png">2f7d0004:00000000:9540805aa0adc663</T>
   <T n="visible">False</T>
 </I>

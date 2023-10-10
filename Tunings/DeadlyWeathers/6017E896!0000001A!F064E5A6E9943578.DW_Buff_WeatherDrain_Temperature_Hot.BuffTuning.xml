@@ -9,39 +9,39 @@
           <L n="decay_modifiers">
             <U>
               <T n="key">16656<!--motive_Hunger--></T>
-              <T n="value">1.5</T>
+              <T n="value">0.75</T>
             </U>
             <U>
               <T n="key">151035<!--commodity_Motive_PetCat_Hunger--></T>
-              <T n="value">1.5</T>
+              <T n="value">0.75</T>
             </U>
             <U>
               <T n="key">151031<!--commodity_Motive_PetDog_Hunger--></T>
-              <T n="value">1.5</T>
+              <T n="value">0.75</T>
             </U>
             <U>
               <T n="key">312265<!--motive_Horse_Hunger--></T>
-              <T n="value">1.5</T>
+              <T n="value">0.75</T>
             </U>
             <U>
               <T n="key">16654<!--motive_Energy--></T>
-              <T n="value">3.0</T>
+              <T n="value">1.5</T>
             </U>
             <U>
               <T n="key">151037<!--commodity_Motive_PetCat_Energy--></T>
-              <T n="value">3.0</T>
+              <T n="value">1.5</T>
             </U>
             <U>
               <T n="key">151033<!--commodity_Motive_PetDog_Energy--></T>
-              <T n="value">3.0</T>
+              <T n="value">1.5</T>
             </U>
             <U>
               <T n="key">312266<!--motive_Horse_Energy--></T>
-              <T n="value">3.0</T>
+              <T n="value">1.5</T>
             </U>
             <U>
               <T n="key">218484<!--motive_Robots_Charge--></T>
-              <T n="value">3.0</T>
+              <T n="value">1.5</T>
             </U>
           </L>
         </U>
@@ -50,6 +50,6 @@
   </U>
   <T n="buff_description">0x3DB3E4A0<!--{0.SimFirstName} is feeling the effects of the temperature.--></T>
   <T n="buff_name">0x4B657E97<!--Temperature (DW)--></T>
-  <T n="icon" p="InGame\ui\icons\buffs\Buff_Lightning_neg.png">2f7d0004:00000000:6142b3d12ecdfb36</T>
+  <T n="icon" p="InGame\ui\icons\buffs\HUD_SeasonsTemp_Hot.png">2f7d0004:00000000:61b4fa6658293e39</T>
   <T n="visible">False</T>
 </I>

@@ -118,6 +118,13 @@ class DWLocationChangeHandler:
                 # Remove buffs
                 BBSimBuffUtils.remove_buff(owner_sim_info, buff_to_remove)
 
+        # "weather_Snow_Heavy_Freezing" s="182374"
+        # {<WeatherType.Freezing = -3>,
+        # <WeatherType.AnySnow = 11>,
+        # <WeatherType.Min_Snow_Accumulation = 77>,
+        # <WeatherType.Sunsnow = 83>,
+        # <WeatherType.Frozen_Water = 90>}}
+
         # {<WeatherType.Cold = -2>,
         # <WeatherType.AnyRain = 12>,
         # <WeatherType.Max_Rain_Accumulation = 14>,
